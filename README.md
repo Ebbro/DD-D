@@ -11,5 +11,5 @@ My idea was to create a shader that check whatever is inside the frustum that is
 
 I would really appreciate your help, write me here on github or any other social you see linked in my profile, thanks a lot.
 
-###Enginr
+### Engine
 Unity 2022 LTS version
