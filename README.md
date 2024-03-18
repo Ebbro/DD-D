@@ -16,4 +16,5 @@ Unity 2022 LTS version
 
 
 ## Miegakure is the perfect example
+What i would like to achieve is a 2D slice of a 3D world in a similar way how this game gives a 3D slice of a 4D world
 ![Miegakure](./References/Miegakure.jpg)
